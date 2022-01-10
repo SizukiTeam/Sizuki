@@ -79,11 +79,11 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-──『[Sizuki](https://telegra.ph/file/4c33a90f7df190fd81763.jpg)』──
+──『[Sizuki](https://telegra.ph/file/ce2aaff614c0bfc2c61fb.jpg)』──
 
 *Hello User!!*
-𝐇𝐞𝐲 𝐈'𝐦 [๖ۣۜZΞUS༻](https://en.m.wikipedia.org/wiki/Zeus),👋
-𝐈 𝐀𝐦 𝐀 𝐆𝐫𝐞𝐞𝐤 𝐌𝐲𝐭𝐡𝐨𝐥𝐨𝐠𝐲 𝐆𝐨𝐝 
+𝐇𝐞𝐲 𝐈'𝐦 [Sizuki](https://en.m.wikipedia.org/wiki/Zeus),👋
+𝐈 𝐀𝐦 𝐀 powerful group manager bot
 𝐀𝐝𝐝 𝐌𝐞 𝐓𝐨 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 𝐈 𝐖𝐢𝐥𝐥 𝐃𝐞𝐬𝐭𝐫𝐨𝐲 𝐄𝐯𝐢𝐥𝐬 𝐖𝐢𝐭𝐡 𝐌𝐲 𝐓𝐡𝐮𝐧𝐝𝐞𝐫...
 
 ──『*ᴛʜᴀɴᴋs  ғᴏʀ  ᴜsɪɴɢ*』"""
