@@ -112,7 +112,7 @@ buttons = [
                              url=f"https://t.me/{UPDATES_CHANNEL}"),
                      ],
                     [
-                    InlineKeyboardButton(text="🔐 Open commads 🔐", callback_data="help_back"
+                    InlineKeyboardButton(text="💥 Open commands 💥", callback_data="help_back"
          ),
     ],
 ] 
@@ -133,7 +133,7 @@ List of all the Modules:
 )
 
 HELP_MSG = "Click the button below to get help manu in your pm."
-DONATE_STRING = """t.me/unitedsupport"""
+DONATE_STRING = """t.me/SizukiXSupport""
 HELP_IMG= "https://telegra.ph/file/5f296f959250d7cd88b09.jpg"
 
 
