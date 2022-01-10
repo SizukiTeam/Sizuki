@@ -100,7 +100,7 @@ buttons = [
                     ],
                    [
                        InlineKeyboardButton(text="🤖 Stats", callback_data="sizuki_info"),
-                       InlineKeyboardButton(text="📊 Network", url="t.me/PegasusXteam"),
+                       InlineKeyboardButton(text="📊 Network", url="t.me/SizukiXNetwork"),
                        InlineKeyboardButton(text="🔔 Logs", url="t.me/pegasusLogs"),
                      ],
                     [                  
