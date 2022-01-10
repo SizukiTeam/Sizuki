@@ -99,9 +99,9 @@ buttons = [
                             url="t.me/ShizukiXbot?startgroup=true"),
                     ],
                    [
-                       InlineKeyboardButton(text="💥 Stats", callback_data="sizuki_info"),
-                       InlineKeyboardButton(text="📊 Network", url="t.me/SizukiXNetwork"),
-                       InlineKeyboardButton(text="🎉 Logs", url="t.me/SizukiLogs"),
+                       InlineKeyboardButton(text="💥• Stats•", callback_data="sizuki_info"),
+                       InlineKeyboardButton(text="📊 •Network•", url="t.me/SizukiXNetwork"),
+                       InlineKeyboardButton(text="🎉 •Logs•", url="t.me/SizukiLogs"),
                      ],
                     [                  
                        InlineKeyboardButton(
