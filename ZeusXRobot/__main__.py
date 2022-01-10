@@ -101,14 +101,14 @@ buttons = [
                    [
                        InlineKeyboardButton(text="🤖 Stats", callback_data="sizuki_info"),
                        InlineKeyboardButton(text="📊 Network", url="t.me/SizukiXNetwork"),
-                       InlineKeyboardButton(text="🔔 Logs", url="t.me/pegasusLogs"),
+                       InlineKeyboardButton(text="🔔 Logs", url="t.me/SizukiLogs"),
                      ],
                     [                  
                        InlineKeyboardButton(
-                             text="👫 Freedom",
-                             url=f"https://t.me/UnitedSupport"),
+                             text="✨ Support",
+                             url=f"https://t.me/SizukiXSupport"),
                        InlineKeyboardButton(
-                             text="⚡ ZeusUpdates",
+                             text="⚡ SizukiUpdates",
                              url=f"https://t.me/{UPDATES_CHANNEL}"),
                      ],
                     [
