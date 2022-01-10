@@ -88,7 +88,7 @@ PM_START_TEXT = """
 
 ──『*ᴛʜᴀɴᴋs  ғᴏʀ  ᴜsɪɴɢ*』"""
 STICKERS = (
-      "CAACAgUAAx0CRiLf0wACvWBhmnKjHrrDcVgz6Ssk5wvA05NLDQACbgIAAv_H2FQTHfy_9X7rfSIE", #1
+      "CAACAgUAAxkBAAIX4mHbvirq81dDkWryGDiz4hjqkw9qAAKMBQACAZrYVtCRHVhAY7P1IwQ", #1
       "CAACAgUAAx0CRiLf0wACvWZhmnOJLucdVwga5fnQJ0i7tD6nIgACsAQAAq042VQYQWM0cthfbyIE", #2
 )
 
