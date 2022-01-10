@@ -134,7 +134,7 @@ List of all the Modules:
 
 HELP_MSG = "Click the button below to get help manu in your pm."
 DONATE_STRING = """t.me/SizukiXSupport""
-HELP_IMG= "https://telegra.ph/file/5f296f959250d7cd88b09.jpg"
+HELP_IMG= "https://telegra.ph/file/7d8b56b5e0f333b1e39fb.jpg"
 
 
 IMPORTED = {}
@@ -336,7 +336,7 @@ def help_button(update, context):
         if mod_match:
             module = mod_match.group(1)
             text = (
-                "*Powered By @PegasusXteam*\n *Module Name:*`{}`\n".format(
+                "*Powered By @SizukiXTeam*\n *Module Name:*`{}`\n".format(
                     HELPABLE[module].__mod_name__
                 )
                 + HELPABLE[module].__help__
@@ -421,10 +421,10 @@ def zeus_data_callback(update, context):
             reply_markup=InlineKeyboardMarkup(
                 [
                  [
-                    InlineKeyboardButton(text="🔄 Go Inline 🔄", switch_inline_query_current_chat=""),
+                    InlineKeyboardButton(text="✨ Go Inline ✨", switch_inline_query_current_chat=""),
                  ],
                   [
-                    InlineKeyboardButton(text="📢 Updates", url="t.me/PegasusUpdates"),
+                    InlineKeyboardButton(text="📢 Updates", url="t.me/SizukiXupdate"),
                  ],
                  [
                     InlineKeyboardButton(text="⬅ Back", callback_data="zeus_back"),
@@ -712,7 +712,7 @@ def main():
 
     if SUPPORT_CHAT is not None and isinstance(SUPPORT_CHAT, str):
         try:
-            dispatcher.bot.sendMessage(f"@{SUPPORT_CHAT}","*Zeus Is Ready ⚡*", parse_mode=ParseMode.MARKDOWN) 
+            dispatcher.bot.sendMessage(f"@{SUPPORT_CHAT}","*Sizuki Is Ready ⚡*", parse_mode=ParseMode.MARKDOWN) 
         except Unauthorized:
             LOGGER.warning(
                 "Bot isnt able to send message to support_chat, go and check!",
