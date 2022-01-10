@@ -95,7 +95,7 @@ STICKERS = (
 buttons = [
     [
         InlineKeyboardButton(
-                            text="☑️ SUBMIT GOD ZEUS ☑️",
+                            text="🎉 Add Sizuki to Your Group 🎉",
                             url="t.me/ShizukiXbot?startgroup=true"),
                     ],
                    [
