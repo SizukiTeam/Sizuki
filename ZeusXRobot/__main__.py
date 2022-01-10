@@ -96,10 +96,10 @@ buttons = [
     [
         InlineKeyboardButton(
                             text="☑️ SUBMIT GOD ZEUS ☑️",
-                            url="t.me/ZeusXRobot?startgroup=true"),
+                            url="t.me/ShizukiXbot?startgroup=true"),
                     ],
                    [
-                       InlineKeyboardButton(text="🤖 Stats", callback_data="zeus_info"),
+                       InlineKeyboardButton(text="🤖 Stats", callback_data="sizuki_info"),
                        InlineKeyboardButton(text="📊 Network", url="t.me/PegasusXteam"),
                        InlineKeyboardButton(text="🔔 Logs", url="t.me/pegasusLogs"),
                      ],
